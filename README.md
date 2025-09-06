@@ -1,1 +1,1 @@
-A simple landing built with ❤️ using React.
+A simple landing page built with ❤️ using React.
