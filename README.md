@@ -1,1 +1,1 @@
-Nothing here!
+A simple landing built with ❤️ using React.
